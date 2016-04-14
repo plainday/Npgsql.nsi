@@ -9,5 +9,7 @@ NSIS script for Npgsql-2.2.5.0-net45 has been removed command prompt popup windo
 # Prepare install files
 * Download Setup_Npgsql-2.2.5.0-net45.exe from https://github.com/npgsql/npgsql/releases
 * Unzip excludes $PLUGINDIR
+
+# Run
 * Place nsi file in unziped folder
-* After compile, run installer with /S options
+* After compile, run installer with /S options for unattended mode
